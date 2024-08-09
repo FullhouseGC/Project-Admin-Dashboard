@@ -1,0 +1,20 @@
+.icons{
+    width: 1.6rem;
+    height: 1.6rem;
+    display: inline-block;
+    filter: brightness(0) saturate(100%) invert(51%) sepia(15%) saturate(1063%) hue-rotate(314deg) brightness(101%) contrast(90%);
+}
+
+.smallProfilePic{
+    display: inline-block;
+    border-radius: 90%;
+    width: 2rem;
+    height: 2rem;
+}
+
+.largeProfilePic{
+    display: inline-block;
+    border-radius: 90%;
+    width: 4rem;
+    height: 4rem;
+}
